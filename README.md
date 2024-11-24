@@ -4,7 +4,7 @@
 <img align="right" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitsolanki026&label=Profile%20views&color=0e75b6&style=flat" alt="mohitsolanki026" /> </p>
 
-- 🔭 I’m currently working as **Backend Developer**
+- 🔭 I’m currently working as **Full-Stack Developer**
 
 - 💬 Ask me about **React.JS, Next.JS, Node.JS, Nest.JS, Golang, Laravel**
 
